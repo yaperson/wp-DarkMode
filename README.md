@@ -1,6 +1,14 @@
 # wp-DarkMode
 Extension wordpress du DarkMode fait en js. 
 
+# ! IMPORTANT !
+
+Les horaires heure Française :
+19h activation du DarkMode
+7h Désactivation
+
+L'extension est calée sur le fuseau horaire de Paris, et donc ne fonctionne qu'en France (dans le sans ou dans d'autre fuseau horaire le darkmode se déclenchera a des heures peut être inutiles...)
+
 # Installation 
 1 - connectez vous a votre panel d'administration
 
